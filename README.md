@@ -35,10 +35,10 @@ To analyze and visualize key metrics for Prism Insurance Pvt. Ltd., including to
 ![Screenshot 2025-01-28 211655](https://github.com/user-attachments/assets/3dc647e8-3915-4231-bc6d-9dd1ebcc6626)
 
 ## Project insight
--The highest number of claims is filed by adults, indicating that this age group is more prone to filing claims compared to other demographics. This could be due to their higher engagement in insurable activities or greater exposure to risk.
+- The highest number of claims is filed by adults, indicating that this age group is more prone to filing claims compared to other demographics. This could be due to their higher engagement in insurable activities or greater exposure to risk.
 - 60% of customers are classified as active, actively engaging with policies or filing claims, while 40% of customers are inactive. This highlights an opportunity to re-engage inactive customers through targeted campaigns or personalized offerings.
--Travel insurance claims account for the highest amount of rejected claims. This suggests a need to review travel insurance policies, improve communication regarding terms and conditions, and streamline the claims process to reduce rejections.
--Both male and female customers are equally represented in the dataset, suggesting a balanced gender distribution in the customer base. This indicates no significant gender bias in customer acquisition or engagement.
+- Travel insurance claims account for the highest amount of rejected claims. This suggests a need to review travel insurance policies, improve communication regarding terms and conditions, and streamline the claims process to reduce rejections.
+- Both male and female customers are equally represented in the dataset, suggesting a balanced gender distribution in the customer base. This indicates no significant gender bias in customer acquisition or engagement.
 
 
 
