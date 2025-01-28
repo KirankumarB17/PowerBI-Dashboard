@@ -21,11 +21,11 @@ To analyze and visualize key metrics for Prism Insurance Pvt. Ltd., including to
 
 ## Process
 
-1.	Clean the data by identifying and addressing missing or null values in the dataset. Use appropriate imputation techniques or remove incomplete entries to ensure data quality and consistency.
-2.	Generate visual slices to represent key metrics such as total premium, and coverage amounts. This will provide a concise understanding of the dataset's financial dimensions.
-3.	Build a detailed table with a drill-through feature to allow users to explore subcategories and view all relevant columns on a single page, ensuring alignment with the questions asked.
-4.	Construct a matrix chart to display total claim amounts for each subcategory, providing a clear breakdown of claims across insurance categories.
-5.	Add a dedicated section or visual to showcase the roles of different managers across subcategories (e.g., Aastha for Travel, Jagan and Kasturi for Health & Life, and Rakesh for Auto & Home), ensuring accountability and role clarity.
+- Clean the data by identifying and addressing missing or null values in the dataset. Use appropriate imputation techniques or remove incomplete entries to ensure data quality and consistency.
+- Generate visual slices to represent key metrics such as total premium, and coverage amounts. This will provide a concise understanding of the dataset's financial dimensions.
+- Build a detailed table with a drill-through feature to allow users to explore subcategories and view all relevant columns on a single page, ensuring alignment with the questions asked.
+- Construct a matrix chart to display total claim amounts for each subcategory, providing a clear breakdown of claims across insurance categories.
+- Add a dedicated section or visual to showcase the roles of different managers across subcategories (e.g., Aastha for Travel, Jagan and Kasturi for Health & Life, and Rakesh for Auto & Home), ensuring accountability and role clarity.
 
    
    
