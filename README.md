@@ -19,7 +19,7 @@ To analyze and visualize key metrics for Prism Insurance Pvt. Ltd., including to
 - Reflect all available columns on a single page, categorized by subcategories, for better visualization and analysis.
 - Display the roles of different managers across subcategories (e.g., Aastha for Travel, Jagan and Kasturi for Health & Life, and Rakesh for Auto & Home).
 
-- - Dashboard <a href="(https://github.com/KirankumarB17/PowerBI-Dashboard/blob/main/Screenshot.png)">view Dashboard</a>
+- Dashboard <a href="(https://github.com/KirankumarB17/PowerBI-Dashboard/blob/main/Screenshot.png)">view Dashboard</a>
 
 
 ## Process
