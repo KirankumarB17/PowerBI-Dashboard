@@ -40,6 +40,12 @@ To analyze and visualize key metrics for Prism Insurance Pvt. Ltd., including to
 - Travel insurance claims account for the highest amount of rejected claims. This suggests a need to review travel insurance policies, improve communication regarding terms and conditions, and streamline the claims process to reduce rejections.
 - Both male and female customers are equally represented in the dataset, suggesting a balanced gender distribution in the customer base. This indicates no significant gender bias in customer acquisition or engagement.
 
+## Final Conclusion:
+
+Prism Insurance Pvt. Ltd. has 60% active customers, with opportunities to re-engage the inactive 40%. Adults file the highest claims, while Travel Insurance shows the highest rejection rate, requiring policy optimization. Premiums and claims vary across subcategories, highlighting areas for financial improvement. Clear managerial roles and balanced gender distribution support operational efficiency. Targeted campaigns and streamlined processes can drive growth and customer satisfaction.    
+
+
+
 
 
 
