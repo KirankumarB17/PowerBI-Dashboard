@@ -4,7 +4,9 @@
 To analyze and visualize key metrics for Prism Insurance Pvt. Ltd., including total premiums, coverage, claims, and customer demographics. The project focuses on claims analysis, managerial role mapping, and creating interactive dashboards to provide actionable insights and support data-driven decision-making.
 
 ## Dataset Used
--<a href="https://github.com/KirankumarB17/PowerBI-Dashboard/blob/main/InsuranceData%20(1).csv">Dataset</a>
+
+-<a href="https://github.com/KirankumarB17/PowerBI-Dashboard/blob/main/InsuranceData%20.csv">Dataset</a>
+
 
 ## Questions (KPIs)
 - Provide a comprehensive summary of the total premium, coverage, and claim amounts for Prism Insurance Pvt. Ltd.
@@ -17,7 +19,8 @@ To analyze and visualize key metrics for Prism Insurance Pvt. Ltd., including to
 - Reflect all available columns on a single page, categorized by subcategories, for better visualization and analysis.
 - Display the roles of different managers across subcategories (e.g., Aastha for Travel, Jagan and Kasturi for Health & Life, and Rakesh for Auto & Home).
 
-- - Dashboard <a href="https://github.com/KirankumarB17/PowerBI-Dashboard/blob/main/Screenshot%20.png">view Dashboard</a>
+- - Dashboard <a href="(https://github.com/KirankumarB17/PowerBI-Dashboard/blob/main/Screenshot.png)">view Dashboard</a>
+
 
 ## Process
 
