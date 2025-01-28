@@ -28,7 +28,8 @@ To analyze and visualize key metrics for Prism Insurance Pvt. Ltd., including to
 - Add a dedicated section or visual to showcase the roles of different managers across subcategories (e.g., Aastha for Travel, Jagan and Kasturi for Health & Life, and Rakesh for Auto & Home), ensuring accountability and role clarity.
 
 ## Dashboard
-![Screenshot ](https://github.com/user-attachments/assets/6471d85a-06cc-4bad-9c50-798716f98864)
+![Screenshot 2025-01-28 211655](https://github.com/user-attachments/assets/3dc647e8-3915-4231-bc6d-9dd1ebcc6626)
+
 
 
 
